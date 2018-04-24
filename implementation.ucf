@@ -1,0 +1,52 @@
+# Clock pin input
+NET "clk" LOC = "V10";
+
+# Segment A 
+NET "osegA[0]" LOC = "T12"; #T12
+NET "osegA[1]" LOC = "K2"; #K2
+NET "osegA[2]" LOC = "H3"; #H3
+
+# Segment B
+NET "osegB[0]" LOC = "V12";
+NET "osegB[1]" LOC = "K1";
+NET "osegB[2]" LOC = "L7";
+
+# Segment C
+NET "osegC[0]" LOC = "N10";
+NET "osegC[1]" LOC = "L4";
+NET "osegC[2]" LOC = "K6";
+
+# Segment D
+NET "osegD[0]" LOC = "P11";
+NET "osegD[1]" LOC = "L3";
+NET "osegD[2]" LOC = "G3";
+
+# Segment E
+NET "osegE[0]" LOC = "M10";
+NET "osegE[1]" LOC = "J3";
+NET "osegE[2]" LOC = "G1";
+
+# Segment F
+NET "osegF[0]" LOC = "N9";
+NET "osegF[1]" LOC = "J1";
+NET "osegF[2]" LOC = "J7";
+
+# Segment G
+NET "osegG[0]" LOC = "U11";
+NET "osegG[1]" LOC = "K3";
+NET "osegG[2]" LOC = "J6";
+
+# Word selectors (Switches)
+NET "selector[0]" LOC = "T5";
+NET "selector[1]" LOC = "V8";
+NET "selector[2]" LOC = "U8";
+NET "selector[3]" LOC = "N8";
+NET "selector[4]" LOC = "M8";
+NET "selector[5]" LOC = "V9";
+NET "selector[6]" LOC = "T9";
+
+# Reloj
+NET "reloj" LOC = "T11";
+
+# Enable button
+NET "enable" LOC = "C9";

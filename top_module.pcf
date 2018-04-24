@@ -1,0 +1,38 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Mon Apr 23 15:21:40 2018
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "osegB<0>" LOCATE = SITE "V12" LEVEL 1;
+COMP "osegB<1>" LOCATE = SITE "K1" LEVEL 1;
+COMP "osegB<2>" LOCATE = SITE "L7" LEVEL 1;
+COMP "osegC<0>" LOCATE = SITE "N10" LEVEL 1;
+COMP "reloj" LOCATE = SITE "T11" LEVEL 1;
+COMP "clk" LOCATE = SITE "V10" LEVEL 1;
+COMP "osegC<1>" LOCATE = SITE "L4" LEVEL 1;
+COMP "enable" LOCATE = SITE "C9" LEVEL 1;
+COMP "osegC<2>" LOCATE = SITE "K6" LEVEL 1;
+COMP "osegD<0>" LOCATE = SITE "P11" LEVEL 1;
+COMP "osegD<1>" LOCATE = SITE "L3" LEVEL 1;
+COMP "osegD<2>" LOCATE = SITE "G3" LEVEL 1;
+COMP "osegE<0>" LOCATE = SITE "M10" LEVEL 1;
+COMP "osegE<1>" LOCATE = SITE "J3" LEVEL 1;
+COMP "osegE<2>" LOCATE = SITE "G1" LEVEL 1;
+COMP "osegF<0>" LOCATE = SITE "N9" LEVEL 1;
+COMP "osegF<1>" LOCATE = SITE "J1" LEVEL 1;
+COMP "osegF<2>" LOCATE = SITE "J7" LEVEL 1;
+COMP "osegG<0>" LOCATE = SITE "U11" LEVEL 1;
+COMP "osegG<1>" LOCATE = SITE "K3" LEVEL 1;
+COMP "osegG<2>" LOCATE = SITE "J6" LEVEL 1;
+COMP "selector<0>" LOCATE = SITE "T5" LEVEL 1;
+COMP "selector<1>" LOCATE = SITE "V8" LEVEL 1;
+COMP "selector<2>" LOCATE = SITE "U8" LEVEL 1;
+COMP "selector<3>" LOCATE = SITE "N8" LEVEL 1;
+COMP "selector<4>" LOCATE = SITE "M8" LEVEL 1;
+COMP "selector<5>" LOCATE = SITE "V9" LEVEL 1;
+COMP "selector<6>" LOCATE = SITE "T9" LEVEL 1;
+COMP "osegA<0>" LOCATE = SITE "T12" LEVEL 1;
+COMP "osegA<1>" LOCATE = SITE "K2" LEVEL 1;
+COMP "osegA<2>" LOCATE = SITE "H3" LEVEL 1;
+SCHEMATIC END;
+

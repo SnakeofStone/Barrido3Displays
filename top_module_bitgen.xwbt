@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=F:\Project\proyectoFinal\top_module.ncd
+OUTFILE=F:\Project\proyectoFinal\top_module.bit
+FAMILY=Spartan6
+PART=xc6slx16-3csg324
+WORKINGDIR=F:\Project\proyectoFinal
+LICENSE=WebPack
+USER_INFO=211503539_0_0_771

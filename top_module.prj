@@ -1,0 +1,2 @@
+verilog work "clock_1sec.v"
+verilog work "top_module.v"
